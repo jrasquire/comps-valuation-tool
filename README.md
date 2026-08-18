@@ -5,7 +5,7 @@ An interactive valuation analysis tool that bridges real-time equity market data
 ---
 
 ## 🚀 Live Demo
-👉 **[Launch the Live App](https://comps-valuation-tool.streamlit.app/)** *(Replace with your actual Streamlit link)*
+👉 **[Launch the Live App]([https://comps-valuation-tool.streamlit.app/](https://comps-valuation-tool-abc2wwxcappwdukfw8s6drc.streamlit.app/))** 
 
 ---
 
